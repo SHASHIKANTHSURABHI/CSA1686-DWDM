@@ -1,6 +1,7 @@
 #APRIORI
 
-![image](https://user-images.githubusercontent.com/110800354/236511225-50bcedf5-c447-4ac8-a0b0-e95cf22a2187.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/110800354/236517047-21be8143-8a3f-4f64-a63d-b20814492d86.png)
+
 
 #Diabetics
 
